@@ -11,4 +11,4 @@ A python Project skeleton layout, complete with all the basics needed, auto test
 5. Double check it's all working by using nosetests again.
 6. Start coding.
 
-#skeleton from LPTHW book.
+skeleton from LPTHW book.
